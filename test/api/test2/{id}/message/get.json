@@ -1,0 +1,3 @@
+{
+	"test": #{apimock.req.params.id}
+}
